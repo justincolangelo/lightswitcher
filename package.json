@@ -1,5 +1,5 @@
 {
-  "name": "The Sun Chamber",
+  "name": "TheSunChamber",
   "version": "1.0.0",
   "description": "This is a light switcher running on an arduino.",
   "repository": "https://github.com/justincolangelo/lightswitcher",
